@@ -28,3 +28,28 @@ Above, we saw the old overall passing % data for high schools. In the figure bel
 By replacing the ninth grader's scores at Thomas High School, we see a slight change in performance. However, the change in performance is so little that it does not affect the ranking of the current list. Thomas High School still remains number two behind Cabrera High School in terms of overall passing %. The graph of these results is shown below.
 
 ![Scores Summary New](Resources/Scores_summary_new.PNG)
+
+### Affects of replacing ninth-grade scores at Thomas High School
+
+Math and Reading scores by grade?
+- Grades of other High Schools were not affected. However, the grades at Thomas High School were all altered to NaN.
+
+Scores by School Spending?
+- The scores by school spending was hardly changed at all. In fact, the difference is less than 1%, so the difference in score and spending seemed negligible.
+
+Scores by School Size?
+- The scores compared to school size was once again not really noticeable. The difference was less than 1%.
+
+Scores by School Type?
+- The score by school type remained relatively even just like the scores by size and spending. The change was less than 1%.
+
+## Summary
+The removal of math and reading scores from 9th graders at Thomas High School did not have a huge impact on this analysis. As shown above in the affects section of this report, many of the changes were by less than 1%. However, several changes did stand out to me during this process.
+
+* % Passing Reading went from 69.6% to 97.0%
+* % Passing Math went from 66.9% to 93.1%
+* % Overall Passing % went from 65.0% to 90.6%
+* % Passing went down less than .05%
+
+From this report, we saw how the change in test scores for 9th graders at Thomas High School impacted the entire district. In the grand scheme of things, its change was not very drastic. However, if more and more High Schools began to omit more data, we could begin to see some pretty drastic shifts in grades.
+
