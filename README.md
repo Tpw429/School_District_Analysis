@@ -23,3 +23,7 @@ The next thing we investigated was the school summaries. I wanted to see what af
 Above, we saw the old overall passing % data for high schools. In the figure below, we will see the revised data with 9th graders at Thomas High School omitted. In the new version below, we see that the overall passing rate for Thomas High School went from 65% in the figure above, all the way up to 90.6% in the figure below!
 
 ![School Summary New](Resources/School_summary_new.PNG)
+
+### Performance Relative to Other Schools with ninth graders omitted
+
+
