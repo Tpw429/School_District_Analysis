@@ -24,6 +24,7 @@ Above, we saw the old overall passing % data for high schools. In the figure bel
 
 ![School Summary New](Resources/School_summary_new.PNG)
 
-### Performance Relative to Other Schools with ninth graders omitted
+### Performance Relative to Other Schools with ninth grader scores changed
+By replacing the ninth grader's scores at Thomas High School, we see a slight change in performance. However, the change in performance is so little that it does not affect the ranking of the current list. Thomas High School still remains number two behind Cabrera High School in terms of overall passing %. The graph of these results is shown below.
 
-
+![Scores Summary New](Resources/Scores_summary_new.PNG)
